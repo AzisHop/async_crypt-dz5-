@@ -44,6 +44,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/./include"/>
 					<Add directory="/usr/include/c++/9"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
 					<Add directory="/usr/include/c++/9/backward"/>
@@ -66,6 +67,7 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/./include"/>
 					<Add directory="/usr/include/c++/9"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
 					<Add directory="/usr/include/c++/9/backward"/>
@@ -82,7 +84,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/include/Car.h">
+			<Option target="async_crypt_dz5_"/>
+		</Unit>
+		<Unit filename="/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/include/Trinket.h">
+			<Option target="async_crypt_dz5_"/>
+		</Unit>
+		<Unit filename="/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/include/Utils.h">
+			<Option target="async_crypt_dz5_"/>
+		</Unit>
 		<Unit filename="/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/main.cpp">
+			<Option target="async_crypt_dz5_"/>
+		</Unit>
+		<Unit filename="/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/src/Car.cpp">
+			<Option target="async_crypt_dz5_"/>
+		</Unit>
+		<Unit filename="/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/src/Trinket.cpp">
+			<Option target="async_crypt_dz5_"/>
+		</Unit>
+		<Unit filename="/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/src/Utils.cpp">
 			<Option target="async_crypt_dz5_"/>
 		</Unit>
 		<Unit filename="/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/CMakeLists.txt">

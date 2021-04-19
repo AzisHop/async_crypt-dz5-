@@ -89,17 +89,62 @@ CMakeFiles/async_crypt_dz5_.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/async_crypt_dz5_.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/main.cpp -o CMakeFiles/async_crypt_dz5_.dir/main.cpp.s
 
+CMakeFiles/async_crypt_dz5_.dir/src/Car.cpp.o: CMakeFiles/async_crypt_dz5_.dir/flags.make
+CMakeFiles/async_crypt_dz5_.dir/src/Car.cpp.o: ../src/Car.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/async_crypt_dz5_.dir/src/Car.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/async_crypt_dz5_.dir/src/Car.cpp.o -c /home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/src/Car.cpp
+
+CMakeFiles/async_crypt_dz5_.dir/src/Car.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/async_crypt_dz5_.dir/src/Car.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/src/Car.cpp > CMakeFiles/async_crypt_dz5_.dir/src/Car.cpp.i
+
+CMakeFiles/async_crypt_dz5_.dir/src/Car.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/async_crypt_dz5_.dir/src/Car.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/src/Car.cpp -o CMakeFiles/async_crypt_dz5_.dir/src/Car.cpp.s
+
+CMakeFiles/async_crypt_dz5_.dir/src/Trinket.cpp.o: CMakeFiles/async_crypt_dz5_.dir/flags.make
+CMakeFiles/async_crypt_dz5_.dir/src/Trinket.cpp.o: ../src/Trinket.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/async_crypt_dz5_.dir/src/Trinket.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/async_crypt_dz5_.dir/src/Trinket.cpp.o -c /home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/src/Trinket.cpp
+
+CMakeFiles/async_crypt_dz5_.dir/src/Trinket.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/async_crypt_dz5_.dir/src/Trinket.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/src/Trinket.cpp > CMakeFiles/async_crypt_dz5_.dir/src/Trinket.cpp.i
+
+CMakeFiles/async_crypt_dz5_.dir/src/Trinket.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/async_crypt_dz5_.dir/src/Trinket.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/src/Trinket.cpp -o CMakeFiles/async_crypt_dz5_.dir/src/Trinket.cpp.s
+
+CMakeFiles/async_crypt_dz5_.dir/src/Utils.cpp.o: CMakeFiles/async_crypt_dz5_.dir/flags.make
+CMakeFiles/async_crypt_dz5_.dir/src/Utils.cpp.o: ../src/Utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/async_crypt_dz5_.dir/src/Utils.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/async_crypt_dz5_.dir/src/Utils.cpp.o -c /home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/src/Utils.cpp
+
+CMakeFiles/async_crypt_dz5_.dir/src/Utils.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/async_crypt_dz5_.dir/src/Utils.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/src/Utils.cpp > CMakeFiles/async_crypt_dz5_.dir/src/Utils.cpp.i
+
+CMakeFiles/async_crypt_dz5_.dir/src/Utils.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/async_crypt_dz5_.dir/src/Utils.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/src/Utils.cpp -o CMakeFiles/async_crypt_dz5_.dir/src/Utils.cpp.s
+
 # Object files for target async_crypt_dz5_
 async_crypt_dz5__OBJECTS = \
-"CMakeFiles/async_crypt_dz5_.dir/main.cpp.o"
+"CMakeFiles/async_crypt_dz5_.dir/main.cpp.o" \
+"CMakeFiles/async_crypt_dz5_.dir/src/Car.cpp.o" \
+"CMakeFiles/async_crypt_dz5_.dir/src/Trinket.cpp.o" \
+"CMakeFiles/async_crypt_dz5_.dir/src/Utils.cpp.o"
 
 # External object files for target async_crypt_dz5_
 async_crypt_dz5__EXTERNAL_OBJECTS =
 
 async_crypt_dz5_: CMakeFiles/async_crypt_dz5_.dir/main.cpp.o
+async_crypt_dz5_: CMakeFiles/async_crypt_dz5_.dir/src/Car.cpp.o
+async_crypt_dz5_: CMakeFiles/async_crypt_dz5_.dir/src/Trinket.cpp.o
+async_crypt_dz5_: CMakeFiles/async_crypt_dz5_.dir/src/Utils.cpp.o
 async_crypt_dz5_: CMakeFiles/async_crypt_dz5_.dir/build.make
 async_crypt_dz5_: CMakeFiles/async_crypt_dz5_.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable async_crypt_dz5_"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable async_crypt_dz5_"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/async_crypt_dz5_.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
