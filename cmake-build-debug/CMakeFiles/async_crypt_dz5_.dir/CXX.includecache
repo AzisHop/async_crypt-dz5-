@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/main.cpp
+iostream
+-
+utility
+-
+crypto++/rsa.h
+/home/yaroslav/Techno_park/2_sem/Blockcheins/async_crypt-dz5-/crypto++/rsa.h
+crypto++/osrng.h
+-
+random
+-
+sstream
+-
+
