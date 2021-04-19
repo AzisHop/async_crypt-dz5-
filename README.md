@@ -11,12 +11,12 @@ ________________________________________________________________________________
 
 1) Установка библиотеки crypto++. 
    пропишите следующие команды:
-    sudo apt-get update
-    sudo apt-get install libcrypto++-dev libcrypto++-doc libcrypto++-utils
+    1) sudo apt-get update
+    2) sudo apt-get install libcrypto++-dev libcrypto++-doc libcrypto++-utils
 2) Запуск программы. 
    пропишите следующие команды:
-    mkdir build
-    cd build
-    cmake ..
-    make
-    ./async_crypt_dz5_
+   1) mkdir build
+   2) cd build
+   3) cmake ..
+   4) make
+   5) ./async_crypt_dz5_
